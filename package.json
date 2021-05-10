@@ -1,0 +1,16 @@
+{
+  "name": "npmruntest",
+  "version": "1.0.0",
+  "description": "npm run test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-self"
+  },
+  "type": "module",
+  "author": "ericyang",
+  "license": "MIT",
+  "dependencies": {
+    "@ericyangchen/npmyangtest": "^2.1.1",
+    "bignumber.js": "^9.0.1"
+  }
+}
